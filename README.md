@@ -4,7 +4,7 @@
 
 
  
-![Screenshot of Website](https://github.com/vinodjangid07/vinodjangid07.github.io/assets/86096184/ddd26963-8a93-48fc-afed-cfe05b5da4b2)
+![Screenshot of Website]()
 
 :star: Star me on GitHub — it helps!
 
