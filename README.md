@@ -18,7 +18,7 @@
 
 ## Installation & Deployment 📦
 - Clone the repository and modify the content of <b>index.html</b> according to your requirement.
-- Add or remove images from `https://www.vinodjangid.me/src/` directory as per your requirement.
+ 
 - Push the generated code to the `master` branch of this repository.
 - <b>NOTE:</b> Make sure to remove `analyticsId` & `google search console Id` from `<head>` tag, and set yours, if you want to use your own Google Analytics & search console account.
 
