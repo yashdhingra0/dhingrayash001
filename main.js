@@ -47,11 +47,25 @@ function playpause() {
     document.getElementById('bootstrap').classList.toggle('language-gradient-class');
     document.getElementById('react').classList.toggle('language-gradient-class');
     document.getElementById('js').classList.toggle('language-gradient-class');
+    document.getElementById('flask').classList.toggle('language-gradient-class');
+    document.getElementById('fastapi').classList.toggle('language-gradient-class');
+    document.getElementById('websockets').classList.toggle('language-gradient-class');
     document.getElementById('ap').classList.toggle('language-gradient-class');
     document.getElementById('canva').classList.toggle('language-gradient-class');
     document.getElementById('ai').classList.toggle('language-gradient-class');
+    document.getElementById('figma').classList.toggle('language-gradient-class');
     document.getElementById('c').classList.toggle('language-gradient-class');
     document.getElementById('cpp').classList.toggle('language-gradient-class');
+    // Infrastructure tools
+    document.getElementById('aws').classList.toggle('language-gradient-class');
+    document.getElementById('docker').classList.toggle('language-gradient-class');
+    document.getElementById('kubernetes').classList.toggle('language-gradient-class');
+    document.getElementById('mongodb').classList.toggle('language-gradient-class');
+    // AI/GenAI tools
+    document.getElementById('chatgpt').classList.toggle('language-gradient-class');
+    document.getElementById('copilot').classList.toggle('language-gradient-class');
+    document.getElementById('midjourney').classList.toggle('language-gradient-class');
+    document.getElementById('claude').classList.toggle('language-gradient-class');
     // document.getElementById('project-box1').classList.toggle('language-gradient-class');
     // document.getElementById('project-box2').classList.toggle('language-gradient-class');
     let projectBox = document.querySelectorAll('.project-box');
